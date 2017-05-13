@@ -1,5 +1,5 @@
-#git
- 
+# git
+
 my first sample project on github
 
-https://google.com/madnessdeveloper
+https://github.com/MadnessDeveloper/git.git
